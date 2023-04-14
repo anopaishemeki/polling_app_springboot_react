@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/polling_app_springboot_react.iml" filepath="$PROJECT_DIR$/.idea/polling_app_springboot_react.iml" />
-      <module fileurl="file://$PROJECT_DIR$/polling-app-server/polls.iml" filepath="$PROJECT_DIR$/polling-app-server/polls.iml" />
     </modules>
   </component>
 </project>
